@@ -2,11 +2,11 @@
 
 var edadActual= prompt("¿Cuál es tu edad?");
 var calculodias= edadActual*365
-document.write("Tú edad es " + edadActual + " y tiene "+ calculodias+ " dias viviendo. <br>" );
+document.write("Tú edad es " + edadActual + " y tiene "+ calculodias+ " días viviendo. <br>" );
 
 
 
-var edadMaxima= Number(prompt("¿Hasta que edad crees que viviras?"));
+var edadMaxima= Number(prompt("¿Hasta que edad crees que vivirás?"));
 var nombreSnack= prompt("¿Como se llama tu snack favorio?")
 var snackXsemana= Number(prompt("¿Qué cantidad de "+ nombreSnack + " consumes por semana? Indicar número de paquetes terminados :P"));
 var snackXanho= (snackXsemana*4)*12;
