@@ -7,6 +7,6 @@ document.write("Tú edad es " + edad + " y tiene "+ calculodias+ " dias viviendo
 
 
 var edadMaxima= 90;
-var takisXsemana= ;
+var takisXsemana= 1/7;
 var precioTakis= 1700;
 
