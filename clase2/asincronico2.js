@@ -15,6 +15,6 @@ let edad= prompt("Indique su edad actual");
 if(generoPersona=="M" && edad>= 65 || generoPersona=="F" && edad>= 60 ){
     document.write("Su genero es " +generoPersona+ " y con "+ edad+ " años ya está en edad de jubilarse <br>");
 }else{
-    document.write("Su genero es " +generoPersona+ " y con "+ edad+ " aún no está en edad de jubilarse <br>");
+    document.write("Su genero es " +generoPersona+ " y con "+ edad+ " años aún no está en edad de jubilarse <br>");
 }
 
